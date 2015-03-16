@@ -1,0 +1,16 @@
+[
+{
+  "modid": "SetYtoBlock",
+  "name": "Set Y to Block",
+  "description": "Sets entire Y layer to specified Block",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["core"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
